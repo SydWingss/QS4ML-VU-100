@@ -1,4 +1,4 @@
-dateTime,BandAccX,BandAccY,BandAccZ,X,Y,Z,Type,altitude,course,hacc,latitude,longitude,speed,rate,rateZone,usage,type
+dateTime,BandAccX,BandAccY,BandAccZ,X,Y,Z,Type,altitude,course,hacc,latitude,longitude,speed,rate,rateZone,usage,deviceStatus
 2024-06-06 12:16:35.141,720.0,4088.0,-282.6,,,,,,,,,,,,,,
 2024-06-06 12:16:35.159,,,,4.519444,-0.998405,9.315857,Acceleration,,,,,,,,,,
 2024-06-06 12:16:35.179,,,,4.557729,-0.906282,9.109476,Acceleration,,,,,,,,,,

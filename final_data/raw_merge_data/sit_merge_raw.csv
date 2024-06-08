@@ -1,4 +1,4 @@
-dateTime,BandAccX,BandAccY,BandAccZ,X,Y,Z,Type,altitude,course,hacc,latitude,longitude,speed,rate,rateZone,usage,type
+dateTime,BandAccX,BandAccY,BandAccZ,X,Y,Z,Type,altitude,course,hacc,latitude,longitude,speed,rate,rateZone,usage,deviceStatus
 2024-06-06 12:12:22.375,591.0,4041.75,-821.25,,,,,,,,,,,,,,
 2024-06-06 12:12:22.385,,,,4.392026,0.12682,8.656036,Acceleration,,,,,,,,,,
 2024-06-06 12:12:22.401,,,,-31.106251,-4.44375,-27.093752,MagneticField,,,,,,,,,,
